@@ -2,7 +2,6 @@ body {
     font-family: Sans-serif;
     color: purple;
 
-   text-align: center;
   }
   
 
@@ -11,8 +10,17 @@ body {
     height:50px;
     width:50px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+   
    
   }
 
+
+  #page2 .myDiv {
+     font-family: sans-serif;
+     
+
+  }
+
+  #page2 .h1 {
+    color: black;
+  }
